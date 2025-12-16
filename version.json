@@ -1,7 +1,7 @@
 {
   "version": "v7.5.3",
   "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.3/StockPro_Setup_v7.5.3.exe",
-  "changelog": "-Modulo Telegram\n-Mejoras de UI/UX\n",
+  "changelog": "Version que tendra de ahora en adelante el actualizador",
   "mandatory": false,
-  "hash_sha256": "C10DA42755B5206080222FE046C79FA2AD023D01BC4FD3C8FC2BCE9CE997278A"
+  "hash_sha256": "69AABA2C2D0E9A793BF6725EB4DFA8DAB8FB4110CB07ECFD66A9C1AA6DC1D973"
 }
