@@ -1,7 +1,7 @@
 {
-  "version": "v7.5.2",
-  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.2/StockPro_Setup_v7.5.2.exe",
-  "changelog": "Version servidor-cliente inicial de distribuci\u00f3n",
+  "version": "v7.5.3",
+  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.3/StockPro_Setup_v7.5.3.exe",
+  "changelog": "Modulo Telegram",
   "mandatory": false,
-  "hash_sha256": "E4A1DE76212756D7DB7225637AC5438F597A3A2CD01C881C14B4309669AB3F8C"
+  "hash_sha256": "68540A12BA1B1A410AC1ABE817047435BE412DCBEC6A6845F4E1304CDB55B459"
 }
