@@ -1,7 +1,7 @@
 {
-  "version": "v7.5.38",
-  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.38/StockPro_Setup_v7.5.3.exe",
-  "changelog": "88",
+  "version": "v7.5.39",
+  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.39/StockPro_Setup_v7.5.3.exe",
+  "changelog": "estable",
   "mandatory": false,
-  "hash_sha256": "D98F8579645C8A05D62EAA6145968C24A415E4ADECEE83F84EDE63F4D6123EB6"
+  "hash_sha256": "4927DB08814F34AF97E9DBE4FB19E111503119367889020C3EA3A66402F34DEB"
 }
