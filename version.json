@@ -1,7 +1,7 @@
 {
   "version": "v7.5.4",
-  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.4/StockPro_Setup_v7.5.3.exe",
-  "changelog": "bien",
+  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.4/StockPro_Setup_v7.5.4.exe",
+  "changelog": "-Correci\u00f3n de actualizaci\u00f3n de tasas BCV y Divisa.\n-Implementaci\u00f3n de Actualizador autom\u00e1tico en modulo Ayuda.",
   "mandatory": false,
-  "hash_sha256": "9BB511E9BDE8CE3B2D5714D04D50016BE0BCE1010F803DB21947A4D5CC16E038"
+  "hash_sha256": "EF9287C5B81200B868D70BC8F5C8DE78D41287C662C28559F4EDE7CC5B489358"
 }
