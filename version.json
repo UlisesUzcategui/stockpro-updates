@@ -1,7 +1,7 @@
 {
   "version": "v7.5.5",
   "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v7.5.5/StockPro_Setup_v7.5.5.exe",
-  "changelog": "listado de inventario completo por proveedor",
+  "changelog": "\ud83e\udd16 Telegram Inteligente: El bot ahora distingue entre saludos y compras, respondiendo de forma humana. Incluye comandos jer\u00e1rquicos (Gerente/Vendedor) y paginaci\u00f3n en b\u00fasquedas.\r\n\ud83d\udcc9 Registro de Fallas (Smart): Nuevo modal al reportar \"No lo tengo\" desde el chat, que infiere autom\u00e1ticamente el precio de mercado y limpia los datos del producto.\r\n\ud83d\udd04 Sincronizaci\u00f3n de Tasas en Red: Al cambiar la tasa BCV o Divisa en una PC, se actualiza autom\u00e1ticamente en todas las dem\u00e1s estaciones conectadas.\r\n\u2601\ufe0f Motor de Actualizaci\u00f3n Blindado: Nuevo proceso que descarga desde la nube, cierra correctamente los procesos y elimina el error de \"ventanas fantasmas\".\r\n\ud83d\udce6 Correcci\u00f3n en Kits: El bot\u00f3n \"Cotizar Ahora\" ya no borra el planificador; permite sumar los repuestos a una lista de trabajo existente.\r\n\ud83d\udccb Mejoras en Planificador: Se agreg\u00f3 la opci\u00f3n de Renombrar Listas y se corrigi\u00f3 la actualizaci\u00f3n inmediata del indicador de lista activa.\r\n\ud83c\udfed Inventario por Proveedor: Nuevo bot\u00f3n para ver, filtrar y gestionar todo el cat\u00e1logo de un proveedor espec\u00edfico en una ventana dedicada.\r\n\ud83d\udc1b Correcciones Visuales: Soluci\u00f3n a problemas de superposici\u00f3n de ventanas (Z-Index) y errores t\u00e9cnicos en men\u00fas contextuales.",
   "mandatory": false,
-  "hash_sha256": "584E8E4F26D76E1A57E18DAD15F9967E7D0052A4D142611717A2FE542A1F9481"
+  "hash_sha256": "1801A732D42716F7965582F6024EB430073BB691D418967382C0E1ECFF3D5FEF"
 }
