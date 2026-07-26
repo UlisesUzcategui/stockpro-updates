@@ -1,7 +1,7 @@
 {
-  "version": "v8.0.0",
-  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v8.0.0/StockPro_Setup_v8.0.0.exe",
-  "changelog": "Actualizaciones y mejoras de funcionalidades.",
+  "version": "v8.0.1",
+  "url_exe": "https://github.com/UlisesUzcategui/stockpro-updates/releases/download/v8.0.1/StockPro_Setup_v8.0.1.exe",
+  "changelog": "Actualizaci\u00f3n e implementaci\u00f3n nuevas de funcionalidades.",
   "mandatory": false,
-  "hash_sha256": "3BDE71A0BC9C636DDFE73AC8092F51769F5DC90927E67EC947BB435BC842DF36"
+  "hash_sha256": "F19ECCACF70B084F5DC29E6CE64811DB47D250D6F946B34B92FA54B008B0711B"
 }
